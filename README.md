@@ -1,2 +1,3 @@
 # rishav_demo
-this is first repo
+This is first repo
+Author - Rishav kumar
